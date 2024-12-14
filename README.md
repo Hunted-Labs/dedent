@@ -1,7 +1,7 @@
 # Dedent
 
-[![Build Status](https://github.com/lithammer/dedent/workflows/Go/badge.svg)](https://github.com/lithammer/dedent/actions)
-[![Godoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/lithammer/dedent)
+[![Build Status](https://github.com/Hunted-Labs/dedent/workflows/Go/badge.svg)](https://github.com/Hunted-Labs/dedent/actions)
+[![Godoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/Hunted-Labs/dedent)
 
 Removes common leading whitespace from multiline strings. Inspired by [`textwrap.dedent`](https://docs.python.org/3/library/textwrap.html#textwrap.dedent) in Python.
 
@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/lithammer/dedent"
+	"github.com/Hunted-Labs/dedent"
 )
 
 func main() {
